@@ -85,5 +85,5 @@ This comprehensive overview highlights DeepSong AI as a dynamic and innovative s
 
 # Contact
 
-Email: support@deepsong.ai
-Support: Available 24/7
+- Email: support@deepsong.ai
+- Support: Available 24/7
